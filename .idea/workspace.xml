@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="95474939-3210-448c-8297-bed133803bcd" name="Changes" comment="">
+    <list default="true" id="95474939-3210-448c-8297-bed133803bcd" name="Changes" comment="feat: logowanie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +14,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="new commit" />
+        <option name="rewordedMessage" value="feat: logowanie" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="2b9b7a8b0677668c84ef3ef19f07bb2661db928e" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -24,8 +44,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/logowanie",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/mikki_max/Documents/GitHub/Test1/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -47,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729182057758</updated>
-      <workItem from="1729182058759" duration="156000" />
+      <workItem from="1729182058759" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -57,14 +81,101 @@
       <option name="project" value="LOCAL" />
       <updated>1729182206548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1729182234095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182234095</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1729182350268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182350268</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1729182392385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182392385</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fourth commit">
+      <option name="closed" value="true" />
+      <created>1729182404400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182404400</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1729182600491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182600491</updated>
+    </task>
+    <task id="LOCAL-00007" summary="xD">
+      <option name="closed" value="true" />
+      <created>1729182618236</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182618236</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hello commit">
+      <option name="closed" value="true" />
+      <created>1729182642870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182642870</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
-    <option name="LAST_COMMIT_MESSAGE" value="git init" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <MESSAGE value="fourth commit" />
+    <MESSAGE value="new commit" />
+    <MESSAGE value="xD" />
+    <MESSAGE value="hello commit" />
+    <MESSAGE value="feat: logowanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: logowanie" />
   </component>
 </project>
